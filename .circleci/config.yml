@@ -175,7 +175,7 @@ jobs:
       - run:
           name: Prepare a pull request for next release
           command: |
-            git config --global user.email "autocomplete-bot@algolia.com"
+            git config --global user.email "autocomplete-bot@kumo-ai.tech"
             git config --global user.name "Autocomplete[bot]"
             yarn run shipjs prepare --yes --no-browse
   release:
@@ -191,7 +191,7 @@ jobs:
       - run:
           name: Release if needed
           command: |
-            git config --global user.email "autocomplete-bot@algolia.com"
+            git config --global user.email "autocomplete-bot@kumo-ai.tech"
             git config --global user.name "Autocomplete[bot]"
             yarn run shipjs trigger
 

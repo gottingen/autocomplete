@@ -1,0 +1,28 @@
+{
+  "name": "@kumoai/autocomplete-example-preview-panel-in-modal",
+  "description": "Autocomplete example with a preview panel in a modal",
+  "version": "1.18.8",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@kumoai/autocomplete-js": "1.18.8",
+    "@kumoai/autocomplete-theme-classic": "1.18.8",
+    "algoliasearch": "4.16.0",
+    "preact": "10.13.2",
+    "qs": "6.11.1"
+  },
+  "devDependencies": {
+    "@types/debounce-promise": "^3.1.6",
+    "@types/qs": "^6.9.6",
+    "parcel": "2.8.3"
+  },
+  "keywords": [
+    "algolia",
+    "autocomplete",
+    "javascript"
+  ]
+}

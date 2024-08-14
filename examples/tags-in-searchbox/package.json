@@ -1,0 +1,29 @@
+{
+  "name": "@kumoai/autocomplete-example-tags-in-searchbox",
+  "description": "Autocomplete example with Tags in the searchbox",
+  "version": "1.18.8",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@kumoai/autocomplete-js": "1.18.8",
+    "@kumoai/autocomplete-plugin-tags": "1.18.8",
+    "@kumoai/autocomplete-theme-classic": "1.18.8",
+    "@algolia/client-search": "4.16.0",
+    "algoliasearch": "4.16.0",
+    "preact": "10.13.2",
+    "ramda": "0.27.1",
+    "search-insights": "^2.15.0"
+  },
+  "devDependencies": {
+    "parcel": "2.8.3"
+  },
+  "keywords": [
+    "algolia",
+    "autocomplete",
+    "javascript"
+  ]
+}

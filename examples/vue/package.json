@@ -1,7 +1,7 @@
 {
   "name": "@kumoai/autocomplete-example-vue",
   "description": "Autocomplete with Vue",
-  "version": "1.18.8",
+  "version": "1.18.9",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -10,8 +10,8 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@kumoai/autocomplete-js": "1.18.8",
-    "@kumoai/autocomplete-theme-classic": "1.18.8",
+    "@kumoai/autocomplete-js": "1.18.9",
+    "@kumoai/autocomplete-theme-classic": "1.18.9",
     "algoliasearch": "4.16.0",
     "vue": "3.2.47"
   },

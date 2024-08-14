@@ -1,7 +1,7 @@
 {
   "name": "@kumoai/autocomplete-example-starter-algolia",
   "description": "Autocomplete Algolia starter",
-  "version": "1.18.8",
+  "version": "1.18.9",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -9,8 +9,8 @@
     "start": "parcel index.html"
   },
   "dependencies": {
-    "@kumoai/autocomplete-js": "1.18.8",
-    "@kumoai/autocomplete-theme-classic": "1.18.8",
+    "@kumoai/autocomplete-js": "1.18.9",
+    "@kumoai/autocomplete-theme-classic": "1.18.9",
     "algoliasearch": "4.16.0",
     "preact": "10.13.2"
   },

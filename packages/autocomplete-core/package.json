@@ -1,7 +1,7 @@
 {
   "name": "@kumoai/autocomplete-core",
   "description": "Core primitives for building autocomplete experiences.",
-  "version": "1.18.8",
+  "version": "1.18.9",
   "license": "MIT",
   "homepage": "https://github.com/algolia/autocomplete",
   "repository": "algolia/autocomplete",
@@ -31,11 +31,11 @@
     "watch": "watch \"yarn on:change\" --ignoreDirectoryPattern \"/dist/\""
   },
   "dependencies": {
-    "@kumoai/autocomplete-plugin-algolia-insights": "1.18.8",
-    "@kumoai/autocomplete-shared": "1.18.8"
+    "@kumoai/autocomplete-plugin-algolia-insights": "1.18.9",
+    "@kumoai/autocomplete-shared": "1.18.9"
   },
   "devDependencies": {
-    "@kumoai/autocomplete-preset-algolia": "1.18.8",
+    "@kumoai/autocomplete-preset-algolia": "1.18.9",
     "@algolia/client-search": "4.16.0",
     "algoliasearch": "4.16.0"
   }

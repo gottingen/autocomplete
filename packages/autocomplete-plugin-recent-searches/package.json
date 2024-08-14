@@ -1,7 +1,7 @@
 {
   "name": "@kumoai/autocomplete-plugin-recent-searches",
   "description": "A plugin to add recent searches to Algolia Autocomplete.",
-  "version": "1.18.8",
+  "version": "1.18.9",
   "license": "MIT",
   "homepage": "https://github.com/algolia/autocomplete",
   "repository": "algolia/autocomplete",
@@ -31,10 +31,10 @@
     "watch": "watch \"yarn on:change\" --ignoreDirectoryPattern \"/dist/\""
   },
   "dependencies": {
-    "@kumoai/autocomplete-core": "1.18.8",
-    "@kumoai/autocomplete-js": "1.18.8",
-    "@kumoai/autocomplete-preset-algolia": "1.18.8",
-    "@kumoai/autocomplete-shared": "1.18.8"
+    "@kumoai/autocomplete-core": "1.18.9",
+    "@kumoai/autocomplete-js": "1.18.9",
+    "@kumoai/autocomplete-preset-algolia": "1.18.9",
+    "@kumoai/autocomplete-shared": "1.18.9"
   },
   "devDependencies": {
     "@algolia/client-search": "4.16.0"

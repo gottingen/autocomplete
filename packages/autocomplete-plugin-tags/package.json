@@ -1,7 +1,7 @@
 {
   "name": "@kumoai/autocomplete-plugin-tags",
   "description": "A plugin to manage and display a list of tags in Algolia Autocomplete.",
-  "version": "1.18.8",
+  "version": "1.18.9",
   "license": "MIT",
   "homepage": "https://github.com/algolia/autocomplete",
   "repository": "algolia/autocomplete",
@@ -36,8 +36,8 @@
     "watch": "watch \"yarn on:change\" --ignoreDirectoryPattern \"/dist/\""
   },
   "devDependencies": {
-    "@kumoai/autocomplete-core": "1.18.8",
-    "@kumoai/autocomplete-js": "1.18.8",
-    "@kumoai/autocomplete-shared": "1.18.8"
+    "@kumoai/autocomplete-core": "1.18.9",
+    "@kumoai/autocomplete-js": "1.18.9",
+    "@kumoai/autocomplete-shared": "1.18.9"
   }
 }

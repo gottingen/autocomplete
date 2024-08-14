@@ -1,7 +1,7 @@
 {
   "name": "@kumoai/autocomplete-example-recently-viewed-items",
   "description": "Autocomplete example with Recently Viewed Items",
-  "version": "1.18.8",
+  "version": "1.18.9",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -9,16 +9,16 @@
     "start": "parcel index.html"
   },
   "dependencies": {
-    "@kumoai/autocomplete-js": "1.18.8",
-    "@kumoai/autocomplete-plugin-recent-searches": "1.18.8",
-    "@kumoai/autocomplete-theme-classic": "1.18.8",
+    "@kumoai/autocomplete-js": "1.18.9",
+    "@kumoai/autocomplete-plugin-recent-searches": "1.18.9",
+    "@kumoai/autocomplete-theme-classic": "1.18.9",
     "@algolia/client-search": "4.16.0",
     "algoliasearch": "4.16.0",
     "preact": "10.13.2"
   },
   "devDependencies": {
-    "@kumoai/autocomplete-core": "1.18.8",
-    "@kumoai/autocomplete-shared": "1.18.8",
+    "@kumoai/autocomplete-core": "1.18.9",
+    "@kumoai/autocomplete-shared": "1.18.9",
     "parcel": "2.8.3"
   },
   "keywords": [

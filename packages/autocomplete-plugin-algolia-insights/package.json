@@ -1,7 +1,7 @@
 {
   "name": "@kumoai/autocomplete-plugin-algolia-insights",
   "description": "A plugin to add Algolia Insights to Algolia Autocomplete.",
-  "version": "1.18.8",
+  "version": "1.18.9",
   "license": "MIT",
   "homepage": "https://github.com/algolia/autocomplete",
   "repository": "algolia/autocomplete",
@@ -31,7 +31,7 @@
     "watch": "watch \"yarn on:change\" --ignoreDirectoryPattern \"/dist/\""
   },
   "dependencies": {
-    "@kumoai/autocomplete-shared": "1.18.8"
+    "@kumoai/autocomplete-shared": "1.18.9"
   },
   "peerDependencies": {
     "search-insights": ">= 1 < 3"

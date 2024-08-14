@@ -1,5 +1,6 @@
 {
   "name": "@kumoai/autocomplete-monorepo",
+  "version": "1.18.9",
   "private": true,
   "workspaces": [
     "packages/*",
